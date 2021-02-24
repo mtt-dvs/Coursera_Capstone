@@ -1,0 +1,7 @@
+This folder contains the files used when building out my capstone project.
+The Foursquare-API folder, uses Foursquares developed API to pull location and venue data relevant to Toronto with the purpose of being used to categorize toronto neighbourhoods by most popular venue types.
+Part 1, Part 2, Part 3, were how I broke out the development of the project and are combined together to create the Segmenting and Clustering Neighborhoods in Toronto.ipynb.
+
+The maps created in the Segmenting and Clustering Neighborhoods in Toronto were not rendered on GitHub but have been added to a google drive for viewing: https://drive.google.com/drive/folders/1IA7dxN4tkvryes-h7OfoCAfGfuq3f-be
+
+This is still a work in progress so maps, colours, formatting, and overall design/layout has not been thought out yet. 
